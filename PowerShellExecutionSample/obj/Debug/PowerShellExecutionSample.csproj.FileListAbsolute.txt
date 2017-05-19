@@ -1,0 +1,5 @@
+D:\Dev\Code\PowerShellExecutionSample\PowerShellExecutionSample\bin\Debug\PowerShellExecutionSample.exe
+D:\Dev\Code\PowerShellExecutionSample\PowerShellExecutionSample\bin\Debug\PowerShellExecutionSample.pdb
+D:\Dev\Code\PowerShellExecutionSample\PowerShellExecutionSample\obj\Debug\PowerShellExecutionSample.csprojResolveAssemblyReference.cache
+D:\Dev\Code\PowerShellExecutionSample\PowerShellExecutionSample\obj\Debug\PowerShellExecutionSample.exe
+D:\Dev\Code\PowerShellExecutionSample\PowerShellExecutionSample\obj\Debug\PowerShellExecutionSample.pdb
