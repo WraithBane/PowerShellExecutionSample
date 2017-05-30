@@ -3,3 +3,6 @@ D:\Dev\Code\PowerShellExecutionSample\PowerShellExecutionSample\bin\Debug\PowerS
 D:\Dev\Code\PowerShellExecutionSample\PowerShellExecutionSample\obj\Debug\PowerShellExecutionSample.csprojResolveAssemblyReference.cache
 D:\Dev\Code\PowerShellExecutionSample\PowerShellExecutionSample\obj\Debug\PowerShellExecutionSample.exe
 D:\Dev\Code\PowerShellExecutionSample\PowerShellExecutionSample\obj\Debug\PowerShellExecutionSample.pdb
+C:\Users\wheab1\Source\Repos\PowerShellExecutionSample\PowerShellExecutionSample\obj\Debug\PowerShellExecutionSample.csprojResolveAssemblyReference.cache
+C:\Users\wheab1\Source\Repos\PowerShellExecutionSample\PowerShellExecutionSample\obj\Debug\PowerShellExecutionSample.exe
+C:\Users\wheab1\Source\Repos\PowerShellExecutionSample\PowerShellExecutionSample\obj\Debug\PowerShellExecutionSample.pdb
